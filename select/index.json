@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "雨とカプチーノ - Rain with Cappuccino",
+  "base_artist": "Yorushika",
+  "createdAt": "2026-03-15T03:57:06.140530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_雨とカプチーノ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_雨とカプチーノ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_雨とカプチーノ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨とカプチーノ - Rain with Cappuccino",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_雨とカプチーノ_-_Rain_with_Cappuccino_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_雨とカプチーノ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨とカプチーノ - Rain with Cappuccino",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_雨とカプチーノ_-_Rain_with_Cappuccino_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雨とカプチーノ - Rain with Cappuccino",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_雨とカプチーノ_-_Rain_with_Cappuccino_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_雨とカプチーノ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/09_雨とカプチーノ_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨とカプチーノ",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/pl_01_雨とカプチーノ_Yorushika.txt"
+    }
+  ]
+}
