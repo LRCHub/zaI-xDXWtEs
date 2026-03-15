@@ -1,4 +1,4 @@
-# YORUSHIKA – 雨とカプチーノ - Rain with Cappuccino
+# Yorushika – 雨とカプチーノ - Rain with Cappuccino
 
 > **歌詞登録ステータス：同期歌詞あり**
 
